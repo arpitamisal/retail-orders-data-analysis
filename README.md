@@ -33,3 +33,26 @@ The project demonstrates an end-to-end data workflow from dataset acquisition an
 
 ## Sales by Region 
 <img width="632" height="454" alt="Screenshot 2026-03-04 at 7 43 24 AM" src="https://github.com/user-attachments/assets/0ae211ac-0da6-4c45-87d9-6e00331f286c" />
+
+## Key Insights
+- Sales are heavily concentrated in the West and East regions, while South significantly underperforms.
+- 2023 shows strong growth momentum, especially in Q1–Q2.
+- Sales are seasonal, with predictable high and low periods.
+- Certain products consistently perform well across regions, indicating strong universal demand.
+
+## Recommendations
+1. Fix South Region Performance
+Investigate:
+Demand gaps
+Marketing presence
+Distribution issues
+Run region-specific promotions
+2. Double Down on West & East
+Increase inventory + ads in top regions
+Expand similar strategies to other regions
+3. Plan Around Seasonality
+Before peak months → stock up + marketing push
+During low months → discounts / bundles
+4. Focus on High-Performing Products
+Prioritize top SKUs (like TEC products)
+Bundle with lower-performing items
