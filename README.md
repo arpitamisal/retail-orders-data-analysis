@@ -36,7 +36,6 @@ The project demonstrates an end-to-end data workflow from dataset acquisition an
 
 ## Key Insights
 - Sales are heavily concentrated in the West and East regions, while South significantly underperforms.
-- 2023 shows strong growth momentum, especially in Q1–Q2.
 - Sales are seasonal, with predictable high and low periods.
 - Certain products consistently perform well across regions, indicating strong universal demand.
 
